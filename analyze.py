@@ -4,7 +4,7 @@ from azure.cognitiveservices.vision.computervision.models import OperationStatus
 import time
 
 endpoint = "https://apiinstancew.cognitiveservices.azure.com/"
-key = "E24iDzcsKbj9ZveLgz1b1mxP2TbCXw7IDqbs54ZWpFQ4kxDBFg2wEJQQJ99BCAC1i4TkXJ3w3AAAFACOGF0DM"
+key = "E24iDzcsKbj9ZveLgz1b1mxP2TbCXw7IDqbs54ZWpFQ4kxDBFg2wEJQQJ99BCAC1i4TkXJ3w3AAAFACOGF"
 
 credentials = CognitiveServicesCredentials(key)
 
